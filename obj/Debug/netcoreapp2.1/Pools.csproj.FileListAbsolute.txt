@@ -1,0 +1,14 @@
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\bin\Debug\netcoreapp2.1\Pools.deps.json
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\bin\Debug\netcoreapp2.1\Pools.runtimeconfig.json
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\bin\Debug\netcoreapp2.1\Pools.runtimeconfig.dev.json
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\bin\Debug\netcoreapp2.1\Pools.dll
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\bin\Debug\netcoreapp2.1\Pools.pdb
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.csproj.CoreCompileInputs.cache
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.RazorAssemblyInfo.cache
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.RazorAssemblyInfo.cs
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.AssemblyInfoInputs.cache
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.AssemblyInfo.cs
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.RazorTargetAssemblyInfo.cache
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.dll
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.pdb
+C:\Users\imandic\Documents\Visual Studio Stuff\Projects\Pools\Pools\obj\Debug\netcoreapp2.1\Pools.csprojAssemblyReference.cache
